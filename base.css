@@ -1,0 +1,8 @@
+div#thumb-container {
+	display: block;
+}
+
+div#thumb-container > div {
+	float: left;
+	display: block;
+}
